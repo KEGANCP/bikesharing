@@ -80,7 +80,7 @@ While reminiscing on my recent trip to New York City, I realized one of my favor
 ----
 ### Project Summary
 
-The CitiBike Campaign has flourished in a huge tourist spot like New York City. We have have identified a substantial amount of information through these visualizations; we understand now that bike sharing has primarily been utilized by males, we also undertand the peak hours of utilization, and much more that we can use to determine the success of CitiBike in Des Moines, Iowa. There are a few more variables to consider, a significant one is the size and populous difference of NYC & Des Moines. I would recommend further analysis on the below 2 items to get a better idea how to best prepare to CitiBike in Des Moines:
+The CitiBike Campaign has flourished in a huge tourist destination like New York City. We have have identified a substantial amount of information through these visualizations; we understand now that bike sharing has primarily been utilized by males, we also undertand the peak hours of utilization, and much more that we can use to determine the success of CitiBike in Des Moines, Iowa. There are a few more variables to consider, a significant one is the size and populous difference of NYC & Des Moines. I would recommend further analysis on the below 2 items to get a better idea how to best prepare to CitiBike in Des Moines:
 - What is the utilization of CitiBike in NYC totals for visitors compared to residents?
 - What is our population & average tourist difference between NYC and Des Moines?
 
