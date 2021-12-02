@@ -11,3 +11,12 @@ While reminiscing on my recent trip to New York City, I realized one of my favor
 [Access my findings here!](https://public.tableau.com/app/profile/kegan.propster/viz/CitiBikeChallenge_16384028007720/CitiBiketoDesMoines?publish=yes)
 
 ----
+
+#### Tools utilized
+- Tableau
+- Python
+  - Pandas
+
+----
+
+
